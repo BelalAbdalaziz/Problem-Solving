@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stack_ds.h": "c",
+        "application.h": "c",
+        "std_types.h": "c"
+    }
+}

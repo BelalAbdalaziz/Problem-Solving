@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stack_ds.h": "c",
+        "application.h": "c",
+        "std_types.h": "c",
+        "stack_ds_dynamic_array.h": "c",
+        "queue_ds_dynamic_array.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
